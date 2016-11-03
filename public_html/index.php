@@ -1,8 +1,9 @@
 <!DOCTYPE html>
+<html lang="en">
 	<head>
-
-</head>
-<body>
+	<meta charset="utf-8">
+	</head>
+	<body>
 
 </body>
 </html>
