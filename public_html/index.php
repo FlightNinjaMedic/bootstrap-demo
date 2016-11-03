@@ -16,9 +16,14 @@
 
 	</head>
 	<body>
-		<div class="container"></div>
-			  <div class="row"></div>
+		<div class="container">
+
+			<!-- Welcome Section -->
+			  <div class="row">
 				  <div class="col-xs-12"></div>
+				  	<h1>Welcome</h1>
+			  </div>
+		</div>
 
 </body>
 </html>
